@@ -11,3 +11,6 @@ Feature_shp2=streams
 Feature_shp3=outline of border
 waterbodies1=waterbodies 
 after my raster data was all put together in order to reclassify you right lcik on the layer and go to proterties--> symbology and go to the values and change, then apply and ok.(raster mexico reclassifed file)
+
+maxent: import monarch occurance data csv (MS DOs with comma seperation) into Arcmap 10.2
+make an inset map of monarch distrubtion in mexcio-- this is present data 
